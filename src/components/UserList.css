@@ -1,0 +1,10 @@
+.userlist {
+  background-color: teal;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+}
+p {
+  color: rgb(43, 58, 67);
+}

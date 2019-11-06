@@ -1,0 +1,8 @@
+.msg {
+  background-color: rgb(195, 222, 227);
+  height: 40px;
+
+  color: rgb(43, 85, 108);
+  text-align: center;
+  border-radius: 5px;
+}

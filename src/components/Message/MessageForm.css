@@ -1,0 +1,31 @@
+.form {
+  background-color: teal;
+  color: white;
+  border-radius: 5px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.message {
+  color: white;
+  text-align: center;
+}
+
+.text {
+  margin-left: 10px;
+  margin-right: 50px;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  width: 170px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  width: 80px;
+  height: 20px;
+  background-color: tomato;
+  color: white;
+}
