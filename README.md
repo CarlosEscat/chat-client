@@ -1,5 +1,7 @@
 ## BUNQ Assigment - Chat App
 
+### Built with React - Redux
+
 In the three hours that I built the App, I managed to create a small chat, where the user selects what name from a given list, he wants to use. Once he has choosen one, that opens the conversation with the rest of the users and a message board.
 
 On the message board user is greated with his name and can see a list of messages identified with the id of the user who sent it, the user can write a message and send it to the conversation, which will show on the message board.
